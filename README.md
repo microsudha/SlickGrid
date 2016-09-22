@@ -1,6 +1,4 @@
-# [X-SlickGrid](https://ddomingues.github.io/X-SlickGrid) [![Code Climate](https://codeclimate.com/github/ddomingues/X-SlickGrid.png)](https://codeclimate.com/github/ddomingues/X-SlickGrid)
-
-X-SlickGrid is a extension of the great [SlickGrid](https://github.com/mleibman/SlickGrid)
+m-SlickGrid is customized [X-SlickGrid](https://ddomingues.github.io/X-SlickGrid) which is a extension of the great [SlickGrid](https://github.com/mleibman/SlickGrid)
 
 [Live Demos](https://ddomingues.github.io/X-SlickGrid/liveDemo/examples/index.html)
 
